@@ -1,0 +1,23 @@
+
+body {
+  font-family: optima;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+td {
+    padding: 0 15px 0 15px;
+}
+th {
+    padding: 0 15px 0 15px;
+}
